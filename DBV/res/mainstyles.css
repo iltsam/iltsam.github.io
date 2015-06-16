@@ -1,0 +1,138 @@
+#banner {
+    height: 200px;
+}
+
+#navBar {
+    align: center;
+    padding: 5px;
+    background-color: dodgerblue;
+    width: auto;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: black;
+}
+
+.navButton {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: dodgerblue;
+    border: outset;
+    padding: 3px;
+    margin: 0 auto;
+    color: white;
+}
+
+.navButton:hover {
+    background-color: darkblue;
+}
+
+.navButton:active {
+    border: inset;
+}
+
+.container {
+    width: 960px;
+    height: 100%;
+    margin: 0 auto;
+    background-color: powderblue;
+}
+
+.content {
+    float: left;
+    background-color: powderblue;
+    padding: 10px;
+}
+
+#signUp {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: dodgerblue;
+    border: outset;
+    padding: 3px;
+    margin: 0 auto;
+    color: white;
+}
+
+#signUp:hover {
+    background-color: darkblue;
+}
+
+#signUp:active {
+    border: inset;
+}
+
+.signUpButton {
+    color: white;
+    background-color: dodgerblue;
+    display: inline-block;
+    border-radius: 4px;
+    border: outset;
+    padding: 3px;
+    margin: 0 auto;
+}
+
+#receivingImg {
+    height: 300px;
+    width: 180px;
+}
+
+.footer {
+
+    float: left;
+}
+
+#contentContainer {
+    background-color: powderblue;
+    width: 960px;
+    float: left;
+}
+
+#copyright {
+    float: right;
+    padding-right: 20px;
+    padding-top: 140px;
+}
+
+a img {
+    border: none;
+}
+
+aside {
+    background-color: powderblue;
+    float: left;
+    padding: 10px;
+}
+
+section {
+    float: left;
+    margin: 0 auto;
+    background-color: powderblue;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+body {
+    background-color: dimgrey;
+}
+
+footer {
+    color: white;
+    float: left;
+    background-image: url("images/footerImage.png");
+    background-repeat: no-repeat;
+    width: 960px;
+    height: 150px;
+    padding: 10px;
+
+}
+
+.links {
+    color: white;
+}
+
+.links:hover {
+    color: aqua;
+}
+
