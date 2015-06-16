@@ -1,0 +1,107 @@
+@charset "utf-8";
+
+body {
+	background-color: black;
+	width: 1300px;
+	height: 900px;
+	padding-right: 13px;
+	
+}
+h1 {
+	color: orange;
+	border-color: #F99301;
+	background-color: black;
+	text-align: center;
+	width: 800px;
+	height: 80px;
+	margin-left: 99px;
+	font-family: euphoria-script;
+	font-style: normal;
+	font-size: 60px;
+	font-weight: 400;
+}
+#side {
+	background-color: white;
+	width: 1000px;
+	height: 530px;
+	min-width: 0px;
+	margin-left: 23px;
+	margin-right: -42px;
+	
+}
+#middle{
+	background-color: white;
+	margin-left: 47px;
+	padding-right: 0px;
+	float: right;
+	margin-top: -5px;
+	margin-right: 368px;
+}
+#sidebar {
+	background-color: black;
+	width: 250px;
+	height: 500px;
+	float: right;
+	margin-top: -394px;
+	margin-right: 103px;
+	
+}
+
+h2 {
+	color: orange;
+	font-family: belgrano;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+}
+p {
+	color: #F99301;
+	font-family: belgrano;
+	font-style: normal;
+	font-weight: 400;
+	text-indent: 0px;
+}
+#history {
+	width: 500px;
+	height: 400px;
+	background-color: white;
+	margin: auto;
+	color: hsla(0,0%,43%,1.00);
+	padding-left: 7px;
+	overflow: scroll;
+
+}
+p {
+	font-family: "crimson-text";
+	margin-left: 9px;
+	margin-right: 9px;
+	
+}
+h3 {
+	font-family:
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #000000;
+	margin-left: 9px;
+}
+#musoscontainerleft {
+	width: 453px;
+	height: 350px;
+	background-color: white;
+	margin-left: 0px;
+}
+
+#musoscontainerright {
+	width: 453px;
+	height: 350px;
+	background-color: white;
+	float: right;
+	margin-top: -352px;
+	margin-right: 8px;
+}
+#musoscontainercenter {
+	width: 453px;
+	height: 350px;
+	background-color: white;
+	margin-top: -372px;
+	margin-left: 498px;
+}

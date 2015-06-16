@@ -1,0 +1,48 @@
+2010 people:
+Bulletin board doesn't work after being clicked twice ~DONE
+Not changing/updating all bulletins - specifically the second one ~DONE
+Need to have expiry date entry only work after todays date- not before ~DONE
+Allign sign up form ~DONE
+Sort bulletins by most recent ~Done
+Need to say what a valid password is ~DONE
+- remove debugging from UCP ~DONE
+- remove username from signup - Needs to be email ~DONE
+Make logout tab on nav after log in  ~DONE
+Easier login/logout option ~DONE
+
+Artists:
+ - Displays a List of artist with a brief info text
+    - Can be filtered by genre
+    - Artists can be in multiple genres
+ - Featured Artist
+    - Can only have 1 or zero at a time
+ - Clicking on an artist takes you to a more detailed artist page with a larger picture
+
+Events:
+ - Displays a list of all events sorted by date (soonest first)
+ - events featuring an artist should link you to their artist page
+ - events should expire and not display on the site after their date ~DONE
+
+Bulletin Board:
+ - Registered users can submit notices ~DONE
+ - Each notice should have an expiry date and may have an external link
+
+Membership Rego:
+ - Have a description on the registration and membership benefits ~DONE (in the upgrade tab in UCP)
+ - Sign up form ~ DONE
+ - Sign up for free ~DONE
+ - users can become registered user ~DONE
+ - Registered users can post and edit their own notices ~DONE
+ - Registered users can be made into paid members by an admin ~DONE
+ - Paying members can edit and post artist info - Link to paypal for payment ~DONE
+ - admin can edit/delete/modify everything ~Need to finish user accounts then DONE
+
+
+1406 people:
+Check all links are pointed to the correct location eg bulletin.html -> bulletin.php fionished
+Add images
+Want to perform page Finsihed
+Ticketshop photos made as link Finished
+
+History added to contact page finished
+
